@@ -1,0 +1,2 @@
+# practica
+MI primer repositorio
